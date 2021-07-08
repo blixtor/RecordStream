@@ -202,6 +202,8 @@ detailed information on the operation of each of the scripts
 
   Benjamin Bernard <perlhacker@benjaminbernard.com>
   Keith Amling <keith.amling@gmail.com>
+
+  additional changes by Torsten Blix <torsten.blix@gmail.com>
  
 =head1 COPYRIGHT AND LICENSE
 
